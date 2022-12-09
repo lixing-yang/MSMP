@@ -1,4 +1,5 @@
 # MSMP
+This assignment is to examine the performance of a product duplicate detection method MSMP+ (Multi-component Simiarity Method with Pre-selection based on LSH) with a revised method for model words extraction. 
 
 ## main.py
 In this file, we complete the main taks for this assignment. Data retriving and bootstrapping are completed, and the final performance of both LSH and MSM is obtained.
